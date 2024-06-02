@@ -1,6 +1,6 @@
 Applicazione ScuolaServlet
 
-Questo progetto è un'applicazione web sviluppata utilizzando Java Servlet per la gestione di una scuola.
+Questo progetto è un'applicazione web sviluppata utilizzando Java Servlet per la gestione di una scuola e l'esecuzione di query salvate da un file di testo su un database MySQL.
 
 Funzionalità
 - Registrazione di nuovi utenti con ruoli diversi come studente, insegnante o amministratore.
