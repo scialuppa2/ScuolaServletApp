@@ -6,6 +6,7 @@ Funzionalità
 - Registrazione di nuovi utenti con ruoli diversi come studente, insegnante o amministratore.
 - Gestione di corsi, studenti, insegnanti e registrazioni agli esami.
 - Salvataggio di query non registrate in un file per garantire la coerenza dei dati nel database.
+- Esecuzione delle query salvate in un file per garantire la coerenza dei dati nel database.
 
 Requisiti
 - Apache Tomcat o un server web compatibile con Java Servlet.
