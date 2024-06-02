@@ -1,4 +1,5 @@
 Applicazione ScuolaServlet
+
 Questo progetto è un'applicazione web sviluppata utilizzando Java Servlet per la gestione di una scuola.
 
 Funzionalità
