@@ -1,0 +1,6 @@
+INSERT INTO verifica (data_verifica, cod_fiscale_allievo, materia, cod_fiscale_docente, voto) VALUES ('2024-05-29T13:52', 'BCDEFG09G0123456', 'Musica', 'HIJKLM12N3456789', '9')
+
+
+
+INSERT INTO utente (nome_utente, password, connesso, ruolo, Codice_Fiscale) VALUES ('Luca', 'luca123', false, 'docente', 'HIJKLM02N3456789')
+
